@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dev.majek.advancements"},{"l":"dev.majek.advancements.config"},{"l":"dev.majek.advancements.shared"},{"l":"dev.majek.advancements.trigger"},{"l":"dev.majek.advancements.util"}];updateSearchResults();
